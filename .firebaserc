@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "prod": "webrtc-flutter-40591",
+    "default": "webrtc-flutter-40591"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
